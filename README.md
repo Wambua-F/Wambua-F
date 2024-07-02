@@ -4,8 +4,8 @@
   <img src="https://img.shields.io/badge/GIS-Expert-brightgreen" alt="GIS">
   <img src="https://img.shields.io/badge/Remote%20Sensing-Specialist-blue" alt="Remote Sensing">
   <img src="https://img.shields.io/badge/Geodesy-Enthusiast-yellow" alt="Geodesy">
-  <img src="https://img.shields.io/badge/Data%20Analyst-red" alt="Data Analysis">
-  <img src="https://img.shields.io/badge/Land%20Surveyor-Registered-orange" alt="Land Surveyor">
+  <img src="https://img.shields.io/badge/Data%20Analyst-Pro-red" alt="Data Analysis">
+  <img src="https://img.shields.io/badge/Land%20Surveyor-(Registered)-orange" alt="Land Surveyor">
 </p>
 
 <p align="center">
@@ -55,6 +55,7 @@
   Particularly in environmental monitoring and humanitarian work.
 </p>
 
+<h2 align="center">Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fabian-wambua-55117677/" target="_blank">
@@ -68,20 +69,10 @@
 
 <hr>
 
-<details>
-<summary>GitHub Stats</summary>
+<h2 align="center">GitHub Stats</h2>
 
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&color=brightgreen" alt="Profile views">
+</p>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-</details>
-
-<details>
-<summary>Most Used Languages</summary>
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
-</details>
+</p>
