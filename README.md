@@ -1,16 +1,87 @@
-## Hi there 👋
+<h1 align="center">Fabian Wambua</h1>
 
-<!--
-**Wambua-F/Wambua-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/GIS-Expert-brightgreen" alt="GIS">
+  <img src="https://img.shields.io/badge/Remote%20Sensing-Specialist-blue" alt="Remote Sensing">
+  <img src="https://img.shields.io/badge/Geodesy-Enthusiast-yellow" alt="Geodesy">
+  <img src="https://img.shields.io/badge/Data%20Analyst-red" alt="Data Analysis">
+  <img src="https://img.shields.io/badge/Land%20Surveyor-Registered-orange" alt="Land Surveyor">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Passionate about geospatial technologies, machine learning, geodesy, and data science.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Technical Skills</h2>
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Skills</th>
+  </tr>
+  <tr>
+    <td>GIS & RS Software</td>
+    <td>ESRI ArcGIS Pro, QGIS</td>
+  </tr>
+  <tr>
+    <td>Cloud Computing & Big Data</td>
+    <td>Google Earth Engine, Google Colab, GCP</td>
+  </tr>
+  <tr>
+    <td>Geospatial Data Analysis</td>
+    <td>Python, Jupyter Notebook, VSCode</td>
+  </tr>
+  <tr>
+    <td>Data Visualization</td>
+    <td>Power BI, ArcGIS Pro, Excel, QGIS</td>
+  </tr>
+  <tr>
+    <td>Geospatial Development</td>
+    <td>Django, Leaflet, PostgreSQL</td>
+  </tr>
+  <tr>
+    <td>Machine Learning</td>
+    <td>Tensorflow, PyTorch, Keras, Scikit-learn</td>
+  </tr>
+</table>
+
+<h2 align="center">Collaboration Interests</h2>
+
+<p align="center">
+  I'm actively seeking collaborations on projects involving:
+  <br>
+  <strong>Data Science</strong> | <strong>Machine Learning</strong> | <strong>Deep Learning</strong>
+  <br>
+  Particularly in environmental monitoring and humanitarian work.
+</p>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fabian-wambua-55117677/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  
+  </a>
+  <a href="mailto:wambua.fabian@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
+
+<hr>
+
+<details>
+<summary>GitHub Stats</summary>
+
+<br>
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+</details>
+
+<details>
+<summary>Most Used Languages</summary>
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+</details>
