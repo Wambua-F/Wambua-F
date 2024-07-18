@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td>Cloud Computing & Big Data</td>
-    <td>Google Earth Engine, Google Colab, GCP</td>
+    <td>Google Earth Engine, Google Colab</td>
   </tr>
   <tr>
     <td>Geospatial Data Analysis</td>
